@@ -1,4 +1,4 @@
-# Blue-ocean-backend
+# WasteNot Backend
 
 
 ## Table of Contents
