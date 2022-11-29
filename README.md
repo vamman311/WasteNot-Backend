@@ -34,9 +34,6 @@ The data was intially 'dirty' and had to be 'cleaned' up with a fsNode read/writ
 
 Here is a link to the fsNode script https://github.com/Blue-ocean-HR/etl-process
 
-## Product Features
-
-
 ## Getting Started
 ### Download Dataset
 
