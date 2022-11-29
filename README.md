@@ -4,7 +4,6 @@
 ## Table of Contents
 - [Tech Stack](#tech-stack)
 - [Schema](#schema)
-- [Product Features](#product-features)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Documentation](#documentation)
