@@ -5,7 +5,6 @@
 - [Tech Stack](#tech-stack)
 - [Schema](#schema)
 - [Getting Started](#getting-started)
-- [Installation](#installation)
 - [Documentation](#documentation)
 - [Contributors](#contributors)
 
